@@ -288,17 +288,17 @@ The following image shows the top 5 softmax probabilities for each image,
 
 Here is the visualizing of my neural Network,
 
-####Conv_Layer_1:
+#### Conv_Layer_1:
 ![alt text][Conv_Layer_1]
-####Conv_Layer_1_relu:
+#### Conv_Layer_1_relu:
 ![alt text][Conv_Layer_1_relu]
-####Conv_Layer_1_maxpool:
+#### Conv_Layer_1_maxpool:
 ![alt text][Conv_Layer_1_maxpool]
-####Conv_Layer_2：
+#### Conv_Layer_2：
 ![alt text][Conv_Layer_2]
-####Conv_Layer_2_relu:
+#### Conv_Layer_2_relu:
 ![alt text][Conv_Layer_2_relu]
-####Conv_Layer_1_maxpool:
+#### Conv_Layer_1_maxpool:
 ![alt text][Conv_Layer_2_maxpool]
 
 
