@@ -207,13 +207,12 @@ If a well known architecture was chosen:
 
 * What architecture was chosen?
 <br> I choosed LeNet architecture since it is already given in the previous assignment
-<br>
+
 * Why did you believe it would be relevant to the traffic sign application?
 <br> It is widely used in image recognition area.
-<br>
+
 * How does the final model's accuracy on the training, validation and test set provide evidence that the model is working well?
 <br> The final validation accuracy is 98.3% and test accuracy is 95.8%, which is relatively good. And I used random 9 images from web to test it, the accuracy is 100%. 
-<br>
 
 ### Test a Model on New Images
 
