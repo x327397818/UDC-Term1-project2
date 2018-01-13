@@ -246,39 +246,39 @@ The model was able to correctly guess 9 of the 9 traffic signs, which gives an a
 
 The following image shows the top 5 softmax probabilities for each image,
 
-####Image1
+#### Image1
 
 ![alt text][top5_1]
 
-####Image2
+#### Image2
 
 ![alt text][top5_2]
 
-####Image3
+#### Image3
 
 ![alt text][top5_3]
 
-####Image4
+#### Image4
 
 ![alt text][top5_4]
 
-####Image5
+#### Image5
 
 ![alt text][top5_5]
 
-####Image6
+#### Image6
 
 ![alt text][top5_6]
 
-####Image7
+#### Image7
 
 ![alt text][top5_7]
 
-####Image8
+#### Image8
 
 ![alt text][top5_8]
 
-####Image9
+#### Image9
 
 ![alt text][top5_9]
 
